@@ -1,0 +1,5 @@
+C:\Users\imodc\OneDrive\Documents\GitHub\SpaceGame\SpaceGameCode\SpaceGameFunctions\bin\Debug\SpaceGameFunctions.dll
+C:\Users\imodc\OneDrive\Documents\GitHub\SpaceGame\SpaceGameCode\SpaceGameFunctions\bin\Debug\SpaceGameFunctions.pdb
+C:\Users\imodc\OneDrive\Documents\GitHub\SpaceGame\SpaceGameCode\SpaceGameFunctions\obj\Debug\SpaceGameFunctions.dll
+C:\Users\imodc\OneDrive\Documents\GitHub\SpaceGame\SpaceGameCode\SpaceGameFunctions\obj\Debug\SpaceGameFunctions.pdb
+C:\Users\imodc\OneDrive\Documents\GitHub\SpaceGame\SpaceGameCode\SpaceGameFunctions\obj\Debug\SpaceGameFunctions.csprojAssemblyReference.cache
